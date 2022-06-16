@@ -4,4 +4,4 @@
 # 2. 공부 범위
 2022년 6월 - **266가지 문제로 정복하는 코딩 인터뷰**를 중심으로 공부   
 [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=279822924)   
-<img src="https://image.aladin.co.kr/product/27982/29/cover500/8966263208_1.jpg" width="20%" height="20%" title="266가지 문제로 정복하는 코딩 인터뷰 이미지" alt="266가지 문제로 정복하는 코딩 인터뷰"></img><br/>
+<img src="https://image.aladin.co.kr/product/27982/29/cover500/8966263208_1.jpg" width="30%" height="30%" title="266가지 문제로 정복하는 코딩 인터뷰 이미지" alt="266가지 문제로 정복하는 코딩 인터뷰"></img><br/>
